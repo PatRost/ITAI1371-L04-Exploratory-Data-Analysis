@@ -53,8 +53,13 @@ Overall, my work contributed to the group’s understanding of the dataset and h
 
 ## Collaborator 5 – [Hashim Sayed Hoosini]
 
+Course: ITAI 1371 – Introduction to Machine Learning
+Assignment: Lab 04 – Exploratory Data Analysis
+Group: Group 4
+
 My contribution for Lab 04 primarily focused on working independently to explore and analyze the Titanic dataset due to a scheduling conflict with the rest of the team. My goal was to better understand the data; I explored the dataset for clues, analyzed relationships between variables, and identified patterns involving gender, fare, class, age, and port of embarkation.
 I imported the necessary libraries such as pandas, matplotlib, and seaborn, ran each code cell within the notebook, and learned how to handle missing values, identify anomalies, and extract insights from the dataset. Additionally, I learned how data visualization helps us better understand data. To further my learning, I completed the experimentation section of the lab using a correlation heatmap of numerical variables.
+
 Overall, my contribution—despite the scheduling conflict—was to work individually to gain a deeper understanding of the concepts and complete the lab within the assigned timeframe, while maintaining communication with the team and following the team lead's direction.
 
 
