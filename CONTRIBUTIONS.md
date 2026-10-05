@@ -36,9 +36,22 @@ Overall, my work contributed to the group’s understanding of the dataset and h
 
 ---
 
-## Collaborator 3 – [Name]
+## Collaborator 3 – Kenneth Kouokam
 
-**Write your contribution here.**
+My contribution to the Module 04 lab focused on reviewing data quality and descriptive statistics in
+the Titanic dataset. I examined the dataset's structure, column types, and missing values to
+support the group's analysis. The dataset contained 891 passenger records and 12 columns, with
+177 missing ages, 687 missing cabin entries, and two missing embarkation entries. I also
+distinguished numerical measurements, such as age and fare, from identifiers and category
+labels. This review helped explain which information was available and where conclusions
+required more care.
+
+I also compared summary statistics to identify values that needed closer attention. For example,
+the mean fare was about 32.20, while the median was about 14.45, showing how high fares can
+pull the average upward. I explained why unusual values should be investigated before being
+removed and why missing information should be handled separately for each column. My
+contribution provided context for interpreting the group's graphs and recommendations for
+preparing the data before future modeling.
 
 
 
