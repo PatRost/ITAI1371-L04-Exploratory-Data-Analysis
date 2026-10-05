@@ -59,12 +59,11 @@ Overall, this lab changed the way I think about the beginning of a machine learn
 
 ---
 
-## Collaborator 5 – Hashim Sayed Hoosini
-
+## Collaborator 5 – [Hashim Sayed Hoosini]
 Reflective Journal
-
 Hashim Sayed Hoosini
 Course: 1371- Intro to Machine Learning
+Module 04: Exploratory Data Analysis
 Professor: Viswanatha Rao
 05 Oct 2026
 
