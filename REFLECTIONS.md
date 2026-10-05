@@ -60,14 +60,17 @@ Overall, this lab changed the way I think about the beginning of a machine learn
 ---
 
 ## Collaborator 5 – [Hashim Sayed Hoosini]
-Reflective Journal
-Hashim Sayed Hoosini
+L04 Reflective Journal
+
 Course: 1371- Intro to Machine Learning
+
 Module 04: Exploratory Data Analysis
+
 Professor: Viswanatha Rao
+
 05 Oct 2026
 
-	This lab strengthened my Exploratory Data Analysis learning. Through this project, I learned how to be a detective, searching for clues in the dataset and finding patterns. Understanding the data, handling missing values, finding anomalies, and extracting insights from the dataset for data visualization is a critical step before model training. Also, I learned that data visualization helps us to better understand the data. For this lab, I used the Titanic dataset, which contains passenger information, to search for the factors that increased the survivability rate.
+This lab strengthened my Exploratory Data Analysis learning. Through this project, I learned how to be a detective, searching for clues in the dataset and finding patterns. Understanding the data, handling missing values, finding anomalies, and extracting insights from the dataset for data visualization is a critical step before model training. Also, I learned that data visualization helps us to better understand the data. For this lab, I used the Titanic dataset, which contains passenger information, to search for the factors that increased the survivability rate.
 The dataset contains passenger information like passenger name, passenger ID, pclass, sex, age, fare, cabin, and embarked port. I analyzed the data to find out whether these were factors in survivability, searching for relationships between the variables to find out how the variable relationships affect the survivability rate.
 
 First, I imported the necessary libraries, like pandas, matplotlib, and seaborn, for data visualization. Then, I loaded the dataset directly from the provided link and printed the first 5 rows of the data with basic information to study the data. For a better understanding, the high-level numerical summary of the data was generated using the describe() method, which calculates statistics like mean, standard deviation, min, and max for numerical columns. Then, I used matplotlib to plot the patterns and find out the relationships between variables. Matplotlib turned the data into insights for data visualization.
@@ -81,6 +84,7 @@ To summarize, this lab helped me to strengthen my exploratory data analysis and 
 
 
 LLM used: Google AI mode
+
 Purpose: spelling check and grammar problem
 
 
