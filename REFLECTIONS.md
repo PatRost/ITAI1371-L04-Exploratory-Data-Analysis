@@ -43,9 +43,40 @@ Overall, this lab changed the way I think about the beginning of a machine learn
 
 ---
 
-## Collaborator 3 – [Name]
+## Collaborator 3 – Kenneth Kouokam
 
-**Write your personal reflection here.**
+My main takeaway from this lab is that understanding a dataset begins before creating a graph. My
+focus on data quality and descriptive statistics helped connect the information in the Titanic table with
+the conclusions that could reasonably be drawn from it. A clear visualization is useful, but its meaning
+depends on which records are present, which values are missing, and what each column represents. I
+see EDA as a way to question the information before relying on it.
+
+The missing values provide a useful example. Out of 891 passenger records, 177 had no age, 687 had
+no cabin entry, and two had no embarkation entry. These are different levels of missing information, so
+using one cleaning rule for every column would be difficult to justify. Removing every row with any
+missing value would leave only 183 records. That could discard a large amount of useful information and
+change the group of passengers being analyzed. I would consider the purpose of each column before
+choosing whether to fill, exclude, or further investigate its missing values.
+
+The average age also needs to be interpreted carefully. The value of about 29.7 years is calculated from
+the 714 recorded ages, rather than all 891 passengers. It therefore describes the available ages, and it
+may not represent the missing ones equally well. This makes the number of observations an important
+part of a summary. A statistic can be calculated correctly while still giving an incomplete picture of the
+dataset. For me, checking the count behind a result is as important as reading the result itself.
+
+Comparing the mean and median fare shows another reason to avoid relying on one number. The mean
+is about 32.20, while the median is about 14.45. High fares pull the mean upward, so the average alone
+does not describe what a typical passenger paid very well. At the same time, an unusually high fare is
+not automatically an error. I would investigate its context before removing it. This connects my numerical
+review with the group's visualizations, which can make the spread and unusual values easier to see.
+
+I also need to distinguish how a column is stored from what it means. Passenger class is stored as a
+number, but it represents ordered categories; a passenger ID identifies a record rather than measuring a
+passenger characteristic. These differences affect which summaries and future modeling choices make
+sense. The lesson I would carry into another project is to inspect the structure, check completeness,
+compare several summaries, and document any limitations before drawing conclusions. That approach
+gives the group's charts a stronger foundation and makes later decisions about preparing the data more
+thoughtful.
 
 
 
