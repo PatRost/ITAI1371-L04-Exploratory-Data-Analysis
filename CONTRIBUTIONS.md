@@ -57,9 +57,13 @@ preparing the data before future modeling.
 
 ---
 
-## Collaborator 4 – [Name]
+## Collaborator 4 – [Anavictoria Cavazos]
 
-**Write your contribution here.**
+Personal contribution: My contribution to the assignment for L04 was to communicate with my group and make sure my part was done, 
+which helped prevent the delay in turning in the assignment. I also, on my own, made sure to work on the lab module in Google Colab. 
+My contribution was primarily independent work and seeing how the code works on my own, so that for future labs I can contribute more 
+or take on a specific task to be able to participate more for the benefit of my group.  
+
 
 
 ---
