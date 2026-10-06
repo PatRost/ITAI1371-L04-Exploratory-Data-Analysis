@@ -82,11 +82,38 @@ thoughtful.
 
 ---
 
-## Collaborator 4 – [Name]
+## Collaborator 4 – [Anavictoria Cavazos]
 
-**Write your personal reflection here.**
+Module 04 Reflective Journal
 
+For the assignment L04 I learned a lot more than I was expecting, mainly through trial and error with the code texts provided.
+Now, although I was lost going into this assignment I gradually figured out the way the codes were operating. For instance, the codes
+for the first few cells were not properly running due to the fact that they had to be rearranged in a way that was not in a single 
+line because the codes should not be like that, they cannot be read or processed properly that way. Once, I would rearrange the codes 
+or even retyped them and ran them, they would run successfully. This part allowed me to see the imporatnce of properly plugging in the 
+code text because otherwise they become illegible to the program and cannot display what the data shows. 
 
+In addition, I took my time to analyze the data once it ran successfully and I was able to see the patterns and also understand the 
+word meanings. What I mean by this is that I learned what 'object' meant which just means that there is actual text 
+for that specific data, it is not numbers. Also, as I studied the data more I started to understand that for some of the columns 
+some of the data is missing such as for the column 'deck' only 203 entries have valid information or have information in those rows 
+out of the 891 meaning 688 rows have missing information. Knowing this allowed me to see and for future datasets compare how much
+of the full value of information is actually there available and how much is not there for whatever reason.
+
+ Looking back this assignment encouraged me to figure out how depending on how the code text is typed that is what is shown or the
+the output. For example, for the descriptive statistics that was asked for, it provided information such as the mean, min, max and 
+others, but only did so for numerical columns. At first I believed that specific description did not have to be in the code text, but 
+if it was not shown as "Get summary for numerical columns", it would have not been able to properly give me the correct descriptive 
+statistics. This emphasized the concept that the code text that is given has to be exact to what one wants to extract from the data
+or what one wants to see for the output of the entire data.
+
+Overall, this L04 helped have a clearer idea of how the data can be precise when the code text is formatted correctly. I also 
+came to the understanding that although the words or terminology may seem different to what I am use to reading or seeing, each one
+represents something in the data that is key because otherwise it would not be displayed unless there is an error. Some data outputs 
+are easier to understand than others like if you compare a count plot to a high-level numerical summary, but both still are essential
+to see why it is there and what is it showing. Even if it just looks like random numbers, it represents something from the data. Thanks
+to this assignment going into L05 and the mid-term I see how I can take this learning and apply it to those assignments as well as
+other future ones. 
 
 ---
 
